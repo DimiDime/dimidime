@@ -1,6 +1,5 @@
 # 💫 About Me:
-Exploring the frontiers of AI 🤖, VR 🕶️, Web Development 🌐, and Cybersecurity 🔒 through practical projects and insights as a Data Science 📊 & Machine Learning 🧠 developer.
-
+Experienced Data Science 📊 & Machine Learning 🧠 developer passionate about crafting innovative **digital products**. I explore the frontiers of AI 🤖, VR 🕶️, Web Development 🌐, and Cybersecurity 🔒, with a keen eye on **sustainable** and impactful solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dimitar-ilev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dimi1188) 
