@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Experienced Data Science 📊 & Machine Learning 🧠 developer passionate about crafting innovative **digital products**. I explore the frontiers of AI 🤖, VR 🕶️, Web Development 🌐, and Cybersecurity 🔒, with a keen eye on **sustainable** and impactful solutions.
 
 ## 🌐 Socials:
