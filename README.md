@@ -18,4 +18,4 @@ Hi, I am an experienced Data Science 📊 & Machine Learning 🧠 developer pass
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@deinbro) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--  Created with GPRM -->
